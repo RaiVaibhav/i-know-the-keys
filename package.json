@@ -1,0 +1,16 @@
+{
+  "name": "i-know-the-keys",
+  "version": "1.0.0",
+  "description": "I know which keys are changed when object updated",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "RaiVaibhav",
+  "license": "ISC",
+  "dependencies": {},
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^8.1.3"
+  }
+}
